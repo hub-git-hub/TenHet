@@ -5,12 +5,19 @@ TenHet, a system for performing tensor completion with  multi-view side informat
 Code and Dataset
 =====
 GenerateSyntheticData: generate the synthtic tensor with multiple matrices.
+
 TenHet: Tensor completion based on ADMM.
+
 solveE: Compute the error tensor.
+
 SoverM: compute the variable M.
 
+
+
 DrugID, DrugChem, DrugSide: information about the drug in DrugBank.
+
 TargetID, TargetGO, TargetSW: information about target protein in DrugBank.
+
 DiseaseID, DiseaseMin, DoseaseHPO: information about disease in DrugBank.
 
 
@@ -20,4 +27,5 @@ The implementation of TenHet has been tested on MATLAB2015. An example of runnin
 
 Demo: 
 (1) run runSyntheticData 
+
 (2) run runDrugBank
