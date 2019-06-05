@@ -26,6 +26,7 @@ Running
 The implementation of TenHet has been tested on MATLAB2015. An example of running can be found in `main.m`. [Matlab Tensor Toolbox](http://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html) is need and has been included in the package. 
 
 Demo: 
+
 (1) run runSyntheticData 
 
 (2) run runDrugBank
